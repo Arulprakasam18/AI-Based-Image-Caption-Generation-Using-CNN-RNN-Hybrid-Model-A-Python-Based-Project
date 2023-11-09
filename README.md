@@ -42,7 +42,7 @@ The project has a specific file structure:
 ## Building the Python-based Project
 
 The project follows these key steps:
-[Image of your picture](https://github.com/Arulprakasam18/AI-Based-Image-Caption-Generation-Using-CNN-RNN-Hybrid-Model-A-Python-Based-Project/blob/main/model.png)
+![Image](https://github.com/Arulprakasam18/AI-Based-Image-Caption-Generation-Using-CNN-RNN-Hybrid-Model-A-Python-Based-Project/blob/main/model.png)
 
 
 
