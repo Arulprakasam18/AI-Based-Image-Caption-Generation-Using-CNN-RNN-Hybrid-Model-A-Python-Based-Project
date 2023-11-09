@@ -42,6 +42,7 @@ The project has a specific file structure:
 ## Building the Python-based Project
 
 The project follows these key steps:
+https://github.com/Arulprakasam18/AI-Based-Image-Caption-Generation-Using-CNN-RNN-Hybrid-Model-A-Python-Based-Project/blob/main/model.png
 
 1. **Data Collection and Preprocessing:** Data, including images and captions, is collected and preprocessed, handling missing values and outliers.
 2. **Feature Extraction:** The Xception model is used to extract image features, and these are stored in the `Features.p` file.
